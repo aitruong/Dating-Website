@@ -1,4 +1,7 @@
 
+
+
+    
 <!doctype html>
 <html>
 <head>
@@ -40,7 +43,7 @@
   <form action="http://ihome.ust.hk/~rossiter/cgi-bin/show_everything.php" method="post" enctype="multipart/form-data">
     <fieldset>
       <legend> Your Face </legend>
-      <label for="imageid">Your Image:</label> <input type="file" id="imageid" name="preview" accept="img/*" required> <br> <img id="preview" src="#" width="10%">
+      <label for="imageid">Your Image:</label> <input type="file" id="imageid" name="preview"  required> <br> <img id="preview" src="#" width="10%">
     </fieldset> 
    <fieldset>
       <legend> Your general details </legend>
@@ -74,15 +77,17 @@
        <label for=" contact">Method to contact you:</label> <input type="checkbox" name="email" value="email">Email
 <input type="checkbox" name="Whatsapp" value="Whatapps">Whatsapp <input type="checkbox" name="In-app chat" value="In-app chat">In-app chat
        
+       
      </fieldset>  
      
    <input type="submit" value="Submit" > 
       
-  </form
-  <script src="https://www.cse.ust.hk/~rossiter/dating_web_site.js">
-  </script>  
+  </form>
+  
+  <script type="text/javascript" src="https://www.cse.ust.hk/~rossiter/dating_web_site.js"> </script>
+ 
 </body>
-</html>
-    
-  </body>
+
+   
+  
 </html>
