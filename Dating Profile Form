@@ -1,21 +1,4 @@
-<!DOCTYPE html>
-<html >
-  <head>
-    <meta charset="UTF-8">
-    <title>Profile Form</title>
-    
-    
-    
-    
-    
-    
-    
-    
-  </head>
 
-  <body>
-
-    
 <!doctype html>
 <html>
 <head>
@@ -91,7 +74,6 @@
        <label for=" contact">Method to contact you:</label> <input type="checkbox" name="email" value="email">Email
 <input type="checkbox" name="Whatsapp" value="Whatapps">Whatsapp <input type="checkbox" name="In-app chat" value="In-app chat">In-app chat
        
-       
      </fieldset>  
      
    <input type="submit" value="Submit" > 
@@ -101,10 +83,6 @@
   </script>  
 </body>
 </html>
-    
-    
-    
-    
     
   </body>
 </html>
